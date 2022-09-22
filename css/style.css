@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(252, 249, 249);
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(240, 112, 245);
+    border-radius: 50%;
+}
